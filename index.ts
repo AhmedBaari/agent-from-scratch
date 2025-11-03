@@ -8,5 +8,4 @@ if (!userMessage) {
 }
 
 const response = await runLLM({ userMessage })
-
-console.log(response)
+console.log('LLM Response:', response)
