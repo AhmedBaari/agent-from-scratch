@@ -1,3 +1,28 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful assistant."
+    },
+    {
+      "role": "user",
+      "content": "Hello, my name is Ahmed Baari."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Ahmed! How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "what is my name again?",
+      "id": "c9e473c3-7e37-4f60-83c1-aed9fa5a6062",
+      "createdAt": "2025-11-03T07:30:38.851Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Ahmed Baari. How can I help you today, Ahmed?",
+      "id": "230cace9-0373-4059-a809-3389da23f1ac",
+      "createdAt": "2025-11-03T07:30:40.338Z"
+    }
+  ]
 }
